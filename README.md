@@ -28,8 +28,8 @@ This repo can be used to train, validate, and test SE(3)-Transformer models.  To
 
 To run validation on models saved during training, run
 
-   python ./experiment/validation.py --model_dir ./experiment/models/basic
+    python ./experiment/validation.py --model_dir ./experiment/models/basic
 
 To run inference on the test set on a model, say modeL_1000.pkl, run
 
-   python ./experiment/test.py --model_dir ./experiment/models/basic/model_1000.pkl
+    python ./experiment/test.py --model_dir ./experiment/models/basic/model_1000.pkl
