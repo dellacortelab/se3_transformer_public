@@ -1,4 +1,4 @@
-# se3_transformer
+# Learning Interatomic Forces with an SE(3)-Transformer on the ANI-1x Dataset
 
 This is a reimplementation of the original SE(3)-Transformer https://github.com/FabianFuchsML/se3-transformer-public.
 
